@@ -1,3 +1,7 @@
 {
-    "labelCurrencies":"label > small"
+    "labelCurrencies":"label > small",
+    "labelWalletBtc":":nth-child(2) > .Container__StyledContainer-sc-1fkb9ns-0 > .styles__Name-go4zwh-1",
+    "labelAmountBtc":".styles__Value-sc-1vzvs64-0",
+    "labelDepositBtc":".moon-arrow_deposit",
+    "labelWarningMessage":".Typography__H3-qw5r90-2"
 }

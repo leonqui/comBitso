@@ -5,7 +5,7 @@ describe('Create a Mexican account', ()=>{
 
             cy.get(register.textCountrySelected).type('Mexico{enter}');
 
-            cy.get(register.inputEmail).type('asdlkj@gmail.com');
+            cy.get(register.inputEmail).type('mex_account@gmail.com');
             cy.get(register.inputPassword).type('Abc_153++.');
             cy.get(register.inputPasswordConfirmation).type('Abc_153++.');
             

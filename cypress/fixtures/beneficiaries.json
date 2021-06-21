@@ -1,0 +1,10 @@
+{
+    "inputFirstName":"#first_name",
+    "inputLastName":"#last_name",
+    "inputSecondLastName":"#second_last_name",
+    "inputDob":"#dob",
+    "divRelationShip":".Form__StyledForm-sc-1f7vh8u-0 > .styles__Wrapper-sc-6qm6qf-6 > .css-m0do4z > .css-16ljna5",
+    "inputPercentage":"#percentage",
+    "buttonAdd":"[data-testid=add-beneficiary-button]",
+    "modalConfirmBeneficiary":"[data-testid=modal-onBack]"
+}
