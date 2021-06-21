@@ -1,0 +1,14 @@
+{
+    "textCountrySelected":".css-csnngo",
+    "inputEmail":"#email",
+    "inputPassword":"#password",
+    "inputPasswordConfirmation":"#password_confirmation",
+    "checkTermsAndCondition":".styles__Form-sc-1cll17m-4 > :nth-child(5)",
+    "labelAcceptTerms":".styles__Container-sc-1c8gfux-0.eWMvZm > #accept_terms",
+    "labelAcceptMail":".styles__Container-sc-1c8gfux-0.eWMvZm > #accept_mail",
+    "labelAcceptPrivacy":".styles__Container-sc-1c8gfux-0.eWMvZm > #accept_privacy",
+    "labelAcceptNvioTerms":".styles__Container-sc-1c8gfux-0.eWMvZm > #accept_nvio_terms",
+    "checkNews":".styles__Form-sc-1cll17m-4 > :nth-child(6)",
+    "checkPrivacyPolicy":".styles__Form-sc-1cll17m-4 > :nth-child(7)",
+    "labelsChecks":".styles__Container-sc-1c8gfux-0.eWMvZm"
+}

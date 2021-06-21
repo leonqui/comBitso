@@ -1,0 +1,5 @@
+{
+    "inputClientId":"#client_id",
+    "inputPassword":"#password",
+    "buttonLogin":"button > span"
+}
